@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![image](https://github.com/DeemNi/cloneSite_youTubeClone/assets/64636234/39b41894-1f53-4374-bc27-1eabd3d587bf)
+
+![image](https://github.com/DeemNi/cloneSite_youTubeClone/assets/64636234/5ad4cec1-75b3-443e-8b8e-3c74d385b9ee)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
